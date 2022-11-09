@@ -1,0 +1,25 @@
+F:\Source Code\TIN\SyncronizingBBJ\SyncronizingBBJ\bin\Debug\SyncronizingBBJ.exe.config
+F:\Source Code\TIN\SyncronizingBBJ\SyncronizingBBJ\bin\Debug\SyncronizingBBJ.exe
+F:\Source Code\TIN\SyncronizingBBJ\SyncronizingBBJ\bin\Debug\SyncronizingBBJ.pdb
+F:\Source Code\TIN\SyncronizingBBJ\SyncronizingBBJ\obj\Debug\SyncronizingBBJ.exe
+F:\Source Code\TIN\SyncronizingBBJ\SyncronizingBBJ\obj\Debug\SyncronizingBBJ.pdb
+F:\Source Code\TIN\SyncronizingBBJ\SyncronizingBBJ\obj\Debug\SyncronizingBBJ.csprojResolveAssemblyReference.cache
+D:\01 Source Code\01 Timah\SyncronizingBBJ\SyncronizingBBJ\bin\Debug\SyncronizingBBJ.exe.config
+D:\01 Source Code\01 Timah\SyncronizingBBJ\SyncronizingBBJ\obj\Debug\SyncronizingBBJ.exe
+D:\01 Source Code\01 Timah\SyncronizingBBJ\SyncronizingBBJ\obj\Debug\SyncronizingBBJ.pdb
+D:\01 Source Code\01 Timah\SyncronizingBBJ\SyncronizingBBJ\bin\Debug\SyncronizingBBJ.exe
+D:\01 Source Code\01 Timah\SyncronizingBBJ\SyncronizingBBJ\bin\Debug\SyncronizingBBJ.pdb
+D:\SourceCode\SyncronizingBBJ\SyncronizingBBJ\bin\Debug\SyncronizingBBJ.exe.config
+D:\SourceCode\SyncronizingBBJ\SyncronizingBBJ\obj\Debug\SyncronizingBBJ.exe
+D:\SourceCode\SyncronizingBBJ\SyncronizingBBJ\obj\Debug\SyncronizingBBJ.pdb
+D:\SourceCode\SyncronizingBBJ\SyncronizingBBJ\bin\Debug\SyncronizingBBJ.exe
+D:\SourceCode\SyncronizingBBJ\SyncronizingBBJ\bin\Debug\SyncronizingBBJ.pdb
+D:\SourceCode\SyncronizingBBJ\SyncronizingBBJ\obj\Debug\SyncronizingBBJ.csprojResolveAssemblyReference.cache
+D:\Source Code Service\service_tin\SyncronizingBBJ\SyncronizingBBJ\bin\Debug\SyncronizingBBJ.exe.config
+D:\Source Code Service\service_tin\SyncronizingBBJ\SyncronizingBBJ\bin\Debug\SyncronizingBBJ.exe
+D:\Source Code Service\service_tin\SyncronizingBBJ\SyncronizingBBJ\bin\Debug\SyncronizingBBJ.pdb
+D:\Source Code Service\service_tin\SyncronizingBBJ\SyncronizingBBJ\obj\Debug\SyncronizingBBJ.csproj.AssemblyReference.cache
+D:\Source Code Service\service_tin\SyncronizingBBJ\SyncronizingBBJ\obj\Debug\SyncronizingBBJ.csproj.SuggestedBindingRedirects.cache
+D:\Source Code Service\service_tin\SyncronizingBBJ\SyncronizingBBJ\obj\Debug\SyncronizingBBJ.csproj.CoreCompileInputs.cache
+D:\Source Code Service\service_tin\SyncronizingBBJ\SyncronizingBBJ\obj\Debug\SyncronizingBBJ.exe
+D:\Source Code Service\service_tin\SyncronizingBBJ\SyncronizingBBJ\obj\Debug\SyncronizingBBJ.pdb
